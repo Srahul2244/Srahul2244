@@ -99,10 +99,11 @@
 ---
 <!-----------------------------------Interest Section------------------------------------>
 <h2><i>Interest Section</i></h2>
-<div style="border:3px solid black">
-<div color:"red">Learning more and more in coding.</div>
-<div  color:"red">Bikes Riding</div>
-<div  color:"red">Loves to listen Music</div>
+<div>
+   
+<div><h5><i>Learning more and more in coding.</i></h5></div>
+<div><h5><i>Bikes Riding.</i></h5></div>
+<div><h5><i>Loves to listen Music.</i></h5></div>
    </div>
 ----
 
