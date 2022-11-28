@@ -110,8 +110,8 @@
 
 <!-----------------------------------Language ------------------------------------>
 <h2><i>Language</i></h2>
-<div style="font-size:20px;color:red;">Hindi</div>
-<div style="font-size:20px;color:red;">English</div>
+<div><h4><i>Hindi</i></h4></div>
+<div><h4><i>English</i></h4></div>
 
 
 
