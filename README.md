@@ -32,6 +32,13 @@
   
 <br>
 
+<!---------------------------------- Intrest Section -------------------------------------->
+<div style="border:1px solid black">
+<div>Learning more and more in coding.</div>
+<div>Bikes Riding</div>
+<div>Loves to listen Music</div>
+   </div>
+
 ---
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
