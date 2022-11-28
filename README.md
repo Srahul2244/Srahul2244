@@ -98,15 +98,20 @@
 
 ---
 <!-----------------------------------Interest Section------------------------------------>
+<h2><i>Interest Section</i></h2>
 <div style="border:3px solid black">
 <div style="border:3px solid red">Learning more and more in coding.</div>
 <div  style="border:3px solid red>Bikes Riding</div>
 <div  style="border:3px solid red>Loves to listen Music</div>
    </div>
 ----
+
+
+
 <!-----------------------------------Language ------------------------------------>
-<div>Hindi</div>
-<div>Language</div>
+<h2><i>Language</i></h2>
+<div style="font-size:20px;color:red;">Hindi</div>
+<div style="font-size:20px;color:red;">English</div>
 
 
 
