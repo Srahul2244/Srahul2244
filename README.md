@@ -100,9 +100,9 @@
 <!-----------------------------------Interest Section------------------------------------>
 <h2><i>Interest Section</i></h2>
 <div style="border:3px solid black">
-<div style="border:3px solid red">Learning more and more in coding.</div>
-<div  style="border:3px solid red>Bikes Riding</div>
-<div  style="border:3px solid red>Loves to listen Music</div>
+<div color:"red">Learning more and more in coding.</div>
+<div  color:"red">Bikes Riding</div>
+<div  color:"red">Loves to listen Music</div>
    </div>
 ----
 
