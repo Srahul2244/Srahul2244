@@ -5,7 +5,7 @@
     
 </h1>
 <h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack from INDIA,who focuses on writing clean, elegant and efficient code.</i>
+    <i>- I'm a Full Stack Web Developer skilled in MERN stack,who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
 <img src="https://media.istockphoto.com/vectors/working-at-home-vector-flat-style-illustration-online-career-space-vector-id1241710721?k=20&m=1241710721&s=612x612&w=0&h=mF-ly28PsqNGU7sgYQb12YMVu0yehaYEhLufEclT07Q=" width="85%">
@@ -25,9 +25,6 @@
 - 💻 I'm passionate about making creative websites.
   
 - 📫 How to reach me *ranafd9984@gmail.com*
-
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1zK8IUEekR-2wSn4NRytqunxPgCoUTcVz/view?usp=sharing)
-
  
   
 <br>
