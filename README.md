@@ -60,7 +60,7 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/rahul-singh-17b20a1b4/" target="_blank">
+    <a href="" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/bhargavi-chella" />
     </a>
     <a title="ranafd9984@gmail.com" href="mailto:ranafd9984@gmail.com" target="_blank">
