@@ -63,12 +63,6 @@
     <a href="https://www.linkedin.com/in/rahul-singh-17b20a1b4/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/bhargavi-chella" />
     </a>
-    <a href="https://twitter.com/Rahulsi92092975" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  />
-    </a>
-    <a href="https://srahul2244.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
-    </a>
     <a title="ranafd9984@gmail.com" href="mailto:ranafd9984@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
     </a>
